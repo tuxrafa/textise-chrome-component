@@ -1,0 +1,14 @@
+div#search .textiseit {
+    color: #1a0dab;
+    display: inline-block;
+    content: "- Textise it";
+    position: absolute;
+    margin-left: 5px;
+    font-size: 16px;
+    margin-top: 0px;
+    white-space: nowrap;
+}
+
+div#search .textiseit:hover {
+    color: #ab0d0d;
+}
